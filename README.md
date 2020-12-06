@@ -1,6 +1,6 @@
 # Check live here
 
-Click [here] (https://vibrant-lichterman-3a70e6.netlify.app/)
+Click [here](https://vibrant-lichterman-3a70e6.netlify.app/)
 
 # Getting Started with Create React App
 
